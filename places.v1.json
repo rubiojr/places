@@ -454,6 +454,19 @@
       "properties": {
         "Title": "Stavanger, Rogaland, Norge"
       }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.9001115,
+          52.3710088
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Amsterdam, Stadsregio Amsterdam, Noord-Holland, Koninkrijk der Nederlanden, Nederland"
+      }
     }
   ],
   "type": "FeatureCollection"
