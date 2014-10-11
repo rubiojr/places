@@ -1,18 +1,31 @@
 {
-    "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    2.3084871,
-                    41.4790133
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "Title": "carrer de Navarra, Santa Maria de Maricel, el Masnou, Maresme, Prov\u00edncia de Barcelona, Catalunya, 08320, Espa\u00f1a"
-            },
-            "type": "Feature"
-        }
-    ],
-    "type": "FeatureCollection"
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          2.3084871,
+          41.4790133
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "carrer de Navarra, Santa Maria de Maricel, el Masnou, Maresme, Província de Barcelona, Catalunya, 08320, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3774878,
+          41.5557456
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Hotel do Elevador, Rua do Bom Jesus, Nogueiró, São Pedro de Este, Braga, 4715, Portugal"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
 }
