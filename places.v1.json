@@ -480,6 +480,19 @@
       "properties": {
         "Title": "Torghatten, Brønnøy, Nordland, Norge"
       }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.30199569067579,
+          41.2365039
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Porto, Portugal"
+      }
     }
   ],
   "type": "FeatureCollection"
