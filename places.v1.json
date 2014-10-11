@@ -467,6 +467,19 @@
       "properties": {
         "Title": "Amsterdam, Stadsregio Amsterdam, Noord-Holland, Koninkrijk der Nederlanden, Nederland"
       }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.0905571,
+          65.3996072
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Torghatten, Brønnøy, Nordland, Norge"
+      }
     }
   ],
   "type": "FeatureCollection"
