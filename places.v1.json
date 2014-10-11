@@ -181,6 +181,175 @@
       "properties": {
         "Title": "Redwood City, San Mateo County, California, United States of America"
       }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.8809428,
+          41.6521342
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Zaragoza, Provincia de Zaragoza, Aragón, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.4642041,
+          41.7633842
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Soria, Provincia de Soria, Castilla y León, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6358494,
+          40.5400082
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Alcobendas, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6712,
+          40.5061054
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Las Tablas, Fuencarral-El Pardo, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.7654406,
+          39.6819591
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Comunitat Valenciana, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.421041,
+          36.7210805
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Málaga, Provincia de Málaga, Andalucía, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.4628135,
+          36.8414197
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Almería, Provincia de Almería, Andalucía, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.9349478,
+          43.2629642
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Bilbao, Provincia de Bizkaia, Euskadi, 48001;48002;48003;48004;48005;48006;48007;48008;48009;48010;48011;48012;48013;48014;48015, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.1771353,
+          41.3825596
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Barcelona, Barcelonès, Província de Barcelona, Catalunya, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.83585750984537,
+          42.0728648
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Província de Girona, Catalunya, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.7448039,
+          41.5056574
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Zamora, Provincia de Zamora, Castilla y León, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.1241494,
+          40.9502159
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Segovia, Provincia de Segovia, Castilla y León, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.0239568,
+          39.8560679
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Toledo, Provincia de Toledo, Castilla-La Mancha, España"
+      }
     }
   ],
   "type": "FeatureCollection"
