@@ -428,6 +428,32 @@
       "properties": {
         "Title": "Bodø, Nordland, Norge"
       }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.7391112,
+          59.9132694
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Oslo, Norge"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7324722,
+          58.9680427
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Stavanger, Rogaland, Norge"
+      }
     }
   ],
   "type": "FeatureCollection"
