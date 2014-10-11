@@ -493,6 +493,19 @@
       "properties": {
         "Title": "Porto, Portugal"
       }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.0393788,
+          32.5344409
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Tijuana, Baja California, Estados Unidos Mexicanos"
+      }
     }
   ],
   "type": "FeatureCollection"
