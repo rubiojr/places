@@ -350,6 +350,84 @@
       "properties": {
         "Title": "Toledo, Provincia de Toledo, Castilla-La Mancha, España"
       }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3521334,
+          48.8565056
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Paris, Île-de-France, France métropolitaine, France"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.4442469,
+          43.6044622
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Toulouse, Haute-Garonne, Midi-Pyrénées, France métropolitaine, 31000;31100;31200;31300;31400;31500, France"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.36720169448285,
+          50.84404145
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Bruxelles / Brussel, Ville de Bruxelles - Stad Brussel, Bruxelles-Capitale - Brussel-Hoofdstad, Bruxelles-Capitale - Brussels Hoofdstedelijk, 1000;1040, België - Belgique - Belgien"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.0099133,
+          53.5437641
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Hamburg, Deutschland"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3888599,
+          52.5170365
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Berlin, Deutschland"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3825834,
+          67.2839476
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Bodø, Nordland, Norge"
+      }
     }
   ],
   "type": "FeatureCollection"
