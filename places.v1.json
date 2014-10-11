@@ -103,6 +103,84 @@
       "properties": {
         "Title": "Enniskillen, County Fermanagh, Northern Ireland, United Kingdom"
       }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.1627714,
+          32.7174209
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "San Diego, San Diego County, California, United States of America"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.3300624,
+          47.6038321
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Seattle, King County, Washington, United States of America"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.1139383,
+          49.2608944
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Vancouver, Greater Vancouver Regional District, British Columbia, Canada"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.9587054,
+          50.1183158
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Whistler, Squamish-Lillooet Regional District, British Columbia, Canada"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9865812,
+          40.7305991
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "NYC, New York, United States of America"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.2363548,
+          37.4852152
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Redwood City, San Mateo County, California, United States of America"
+      }
     }
   ],
   "type": "FeatureCollection"
