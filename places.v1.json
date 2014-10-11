@@ -25,6 +25,84 @@
       "properties": {
         "Title": "Hotel do Elevador, Rua do Bom Jesus, Nogueiró, São Pedro de Este, Braga, 4715, Portugal"
       }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4192704,
+          37.7792768
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "San Francisco, SF, California, United States of America"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.2447445,
+          53.4791466
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Manchester, North West England, England, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.9805393,
+          53.4054719
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Liverpool, North West England, England, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1276474,
+          51.5073219
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "London, Greater London, England, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.9938137,
+          53.0465068
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Wrexham, Wales, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -7.6389365,
+          54.3448538
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Enniskillen, County Fermanagh, Northern Ireland, United Kingdom"
+      }
     }
   ],
   "type": "FeatureCollection"
