@@ -1,15 +1,18 @@
 {
-    "Features": [
+    "features": [
         {
-            "Geometry": {
-                "Coordinates": [
-                    37.2563859,
-                    -6.9496708
+            "geometry": {
+                "coordinates": [
+                    -6.9496708,
+                    37.2563859
                 ],
-                "Type": "Point"
+                "type": "Point"
             },
-            "Type": "Feature"
+            "properties": {
+                "Title": "Huelva, Provincia de Huelva, Andaluc\u00eda, Espa\u00f1a"
+            },
+            "type": "Feature"
         }
     ],
-    "Type": "FeatureCollection"
+    "type": "FeatureCollection"
 }
