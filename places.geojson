@@ -558,6 +558,58 @@
       "properties": {
         "title": "Melbourne, Victoria, Australia"
       }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "18.1094217",
+          "42.6410479"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "title": "Dubrovnik, Hrvatska"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "16.4396801",
+          "43.5115555"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "title": "Split, Hrvatska"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "16.6152143",
+          "43.1617117"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "title": "Split, Hrvatska"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "16.2500431",
+          "43.5166357"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "title": "Trogir, Hrvatska"
+      }
     }
   ],
   "type": "FeatureCollection"
