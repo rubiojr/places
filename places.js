@@ -4,7 +4,7 @@ var fs = require('fs');
 
 var search = process.argv.slice(2).join(' ');
 
-var toFeature = function(title, json) {
+var toFeature = function(json) {
     var obj = {
         geometry: {
             coordinates: [json.longitude, json.latitude],
@@ -12,11 +12,22 @@ var toFeature = function(title, json) {
         },
         type: 'Feature',
         properties: {
-            title: title
+            title: getTitle(json)
         }
     }
 
     return obj;
+}
+
+var getTitle = function(result) {
+    var components = [];
+
+    result.streetName && components.push(result.streetName);
+    result.city       && components.push(result.city);
+    result.state      && components.push(result.state);
+    result.country    && components.push(result.country);
+
+    return components.join(', ');
 }
 
 var addPlace = function(feat) {
@@ -37,7 +48,7 @@ if (process.argv.length <= 2) {
 geocoder.geocode(search)
     .then(function(res) {
         if (res.length !== 0) {
-            addPlace(toFeature(search, res[0]));
+            addPlace(toFeature(res[0]));
         } else {
             console.error('No results returned.');
         };
