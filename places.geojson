@@ -649,6 +649,19 @@
       "properties": {
         "title": "Schweiz, Suisse, Svizzera, Svizra"
       }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "14.4212556",
+          "50.0874401"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "title": "Praha, Praha, Česko"
+      }
     }
   ],
   "type": "FeatureCollection"
