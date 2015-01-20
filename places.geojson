@@ -636,6 +636,19 @@
       "properties": {
         "title": "München, Bayern, Deutschland"
       }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "8.2319736",
+          "46.7985624"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "title": "Schweiz, Suisse, Svizzera, Svizra"
+      }
     }
   ],
   "type": "FeatureCollection"
