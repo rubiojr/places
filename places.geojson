@@ -1,0 +1,512 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          2.3084871,
+          41.4790133
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "carrer de Navarra, Santa Maria de Maricel, el Masnou, Maresme, Província de Barcelona, Catalunya, 08320, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3774878,
+          41.5557456
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Hotel do Elevador, Rua do Bom Jesus, Nogueiró, São Pedro de Este, Braga, 4715, Portugal"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4192704,
+          37.7792768
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "San Francisco, SF, California, United States of America"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.2447445,
+          53.4791466
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Manchester, North West England, England, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.9805393,
+          53.4054719
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Liverpool, North West England, England, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1276474,
+          51.5073219
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "London, Greater London, England, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.9938137,
+          53.0465068
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Wrexham, Wales, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -7.6389365,
+          54.3448538
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Enniskillen, County Fermanagh, Northern Ireland, United Kingdom"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.1627714,
+          32.7174209
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "San Diego, San Diego County, California, United States of America"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.3300624,
+          47.6038321
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Seattle, King County, Washington, United States of America"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -123.1139383,
+          49.2608944
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Vancouver, Greater Vancouver Regional District, British Columbia, Canada"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.9587054,
+          50.1183158
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Whistler, Squamish-Lillooet Regional District, British Columbia, Canada"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9865812,
+          40.7305991
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "NYC, New York, United States of America"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.2363548,
+          37.4852152
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Redwood City, San Mateo County, California, United States of America"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.8809428,
+          41.6521342
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Zaragoza, Provincia de Zaragoza, Aragón, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.4642041,
+          41.7633842
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Soria, Provincia de Soria, Castilla y León, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6358494,
+          40.5400082
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Alcobendas, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.6712,
+          40.5061054
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Las Tablas, Fuencarral-El Pardo, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.7654406,
+          39.6819591
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Comunitat Valenciana, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.421041,
+          36.7210805
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Málaga, Provincia de Málaga, Andalucía, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.4628135,
+          36.8414197
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Almería, Provincia de Almería, Andalucía, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.9349478,
+          43.2629642
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Bilbao, Provincia de Bizkaia, Euskadi, 48001;48002;48003;48004;48005;48006;48007;48008;48009;48010;48011;48012;48013;48014;48015, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.1771353,
+          41.3825596
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Barcelona, Barcelonès, Província de Barcelona, Catalunya, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.83585750984537,
+          42.0728648
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Província de Girona, Catalunya, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.7448039,
+          41.5056574
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Zamora, Provincia de Zamora, Castilla y León, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.1241494,
+          40.9502159
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Segovia, Provincia de Segovia, Castilla y León, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.0239568,
+          39.8560679
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Toledo, Provincia de Toledo, Castilla-La Mancha, España"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3521334,
+          48.8565056
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Paris, Île-de-France, France métropolitaine, France"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.4442469,
+          43.6044622
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Toulouse, Haute-Garonne, Midi-Pyrénées, France métropolitaine, 31000;31100;31200;31300;31400;31500, France"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.36720169448285,
+          50.84404145
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Bruxelles / Brussel, Ville de Bruxelles - Stad Brussel, Bruxelles-Capitale - Brussel-Hoofdstad, Bruxelles-Capitale - Brussels Hoofdstedelijk, 1000;1040, België - Belgique - Belgien"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.0099133,
+          53.5437641
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Hamburg, Deutschland"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3888599,
+          52.5170365
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Berlin, Deutschland"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3825834,
+          67.2839476
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Bodø, Nordland, Norge"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.7391112,
+          59.9132694
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Oslo, Norge"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.7324722,
+          58.9680427
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Stavanger, Rogaland, Norge"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.9001115,
+          52.3710088
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Amsterdam, Stadsregio Amsterdam, Noord-Holland, Koninkrijk der Nederlanden, Nederland"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.0905571,
+          65.3996072
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Torghatten, Brønnøy, Nordland, Norge"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.30199569067579,
+          41.2365039
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Porto, Portugal"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.0393788,
+          32.5344409
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "Title": "Tijuana, Baja California, Estados Unidos Mexicanos"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
