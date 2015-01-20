@@ -38,6 +38,9 @@ var addPlace = function(feat) {
 
     console.log('Added feature:');
     console.log(JSON.stringify(feat, undefined, 2));
+    var url = 'http://geohash.org/?q=' +
+              feat.geometry.coordinates.reverse().join('+');
+    console.log('\nGeoHash: ' + url);
 }
 
 if (process.argv.length <= 2) {
