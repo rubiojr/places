@@ -623,6 +623,19 @@
       "properties": {
         "title": "Manila, Metro Manila, Philippines"
       }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "11.5754815",
+          "48.1372719"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "title": "München, Bayern, Deutschland"
+      }
     }
   ],
   "type": "FeatureCollection"
