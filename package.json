@@ -1,0 +1,22 @@
+{
+  "name": "places",
+  "version": "1.0.0",
+  "description": "My Places",
+  "main": "places.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rubiojr/places"
+  },
+  "author": "Sergio Rubio <rubiojr@frameos.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rubiojr/places/issues"
+  },
+  "homepage": "https://github.com/rubiojr/places",
+  "dependencies": {
+    "node-geocoder": "^2.14.0"
+  }
+}
