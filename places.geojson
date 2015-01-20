@@ -545,6 +545,19 @@
       "properties": {
         "title": "Hekerua Road, Auckland, New Zealand/Aotearoa"
       }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "144.9631608",
+          "-37.8142176"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "title": "Melbourne, Victoria, Australia"
+      }
     }
   ],
   "type": "FeatureCollection"
