@@ -532,6 +532,19 @@
       "properties": {
         "title": "Roma, LAZ, Italia"
       }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "175.0230432",
+          "-36.7866384"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "title": "Hekerua Road, Auckland, New Zealand/Aotearoa"
+      }
     }
   ],
   "type": "FeatureCollection"
