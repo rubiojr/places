@@ -610,6 +610,19 @@
       "properties": {
         "title": "Trogir, Hrvatska"
       }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "120.9799696",
+          "14.5906216"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "title": "Manila, Metro Manila, Philippines"
+      }
     }
   ],
   "type": "FeatureCollection"
