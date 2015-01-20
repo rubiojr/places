@@ -519,6 +519,19 @@
       "properties": {
         "title": "Trapani, SIC, Italia"
       }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "12.4830718",
+          "41.8933439"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "title": "Roma, LAZ, Italia"
+      }
     }
   ],
   "type": "FeatureCollection"
