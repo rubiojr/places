@@ -506,6 +506,19 @@
       "properties": {
         "Title": "Tijuana, Baja California, Estados Unidos Mexicanos"
       }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          "12.5437475",
+          "38.0160543"
+        ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "title": "Trapani, SIC, Italia"
+      }
     }
   ],
   "type": "FeatureCollection"
