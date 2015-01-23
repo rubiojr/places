@@ -10,7 +10,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "carrer de Navarra, Santa Maria de Maricel, el Masnou, Maresme, Província de Barcelona, Catalunya, 08320, España"
+        "title": "carrer de Navarra, Santa Maria de Maricel, el Masnou, Maresme, Província de Barcelona, Catalunya, 08320, España"
       }
     },
     {
@@ -23,7 +23,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Hotel do Elevador, Rua do Bom Jesus, Nogueiró, São Pedro de Este, Braga, 4715, Portugal"
+        "title": "Hotel do Elevador, Rua do Bom Jesus, Nogueiró, São Pedro de Este, Braga, 4715, Portugal"
       }
     },
     {
@@ -36,7 +36,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "San Francisco, SF, California, United States of America"
+        "title": "San Francisco, SF, California, United States of America"
       }
     },
     {
@@ -49,7 +49,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Manchester, North West England, England, United Kingdom"
+        "title": "Manchester, North West England, England, United Kingdom"
       }
     },
     {
@@ -62,7 +62,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Liverpool, North West England, England, United Kingdom"
+        "title": "Liverpool, North West England, England, United Kingdom"
       }
     },
     {
@@ -75,7 +75,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "London, Greater London, England, United Kingdom"
+        "title": "London, Greater London, England, United Kingdom"
       }
     },
     {
@@ -88,7 +88,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Wrexham, Wales, United Kingdom"
+        "title": "Wrexham, Wales, United Kingdom"
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Enniskillen, County Fermanagh, Northern Ireland, United Kingdom"
+        "title": "Enniskillen, County Fermanagh, Northern Ireland, United Kingdom"
       }
     },
     {
@@ -114,7 +114,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "San Diego, San Diego County, California, United States of America"
+        "title": "San Diego, San Diego County, California, United States of America"
       }
     },
     {
@@ -127,7 +127,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Seattle, King County, Washington, United States of America"
+        "title": "Seattle, King County, Washington, United States of America"
       }
     },
     {
@@ -140,7 +140,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Vancouver, Greater Vancouver Regional District, British Columbia, Canada"
+        "title": "Vancouver, Greater Vancouver Regional District, British Columbia, Canada"
       }
     },
     {
@@ -153,7 +153,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Whistler, Squamish-Lillooet Regional District, British Columbia, Canada"
+        "title": "Whistler, Squamish-Lillooet Regional District, British Columbia, Canada"
       }
     },
     {
@@ -166,7 +166,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "NYC, New York, United States of America"
+        "title": "NYC, New York, United States of America"
       }
     },
     {
@@ -179,7 +179,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Redwood City, San Mateo County, California, United States of America"
+        "title": "Redwood City, San Mateo County, California, United States of America"
       }
     },
     {
@@ -192,7 +192,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Zaragoza, Provincia de Zaragoza, Aragón, España"
+        "title": "Zaragoza, Provincia de Zaragoza, Aragón, España"
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Soria, Provincia de Soria, Castilla y León, España"
+        "title": "Soria, Provincia de Soria, Castilla y León, España"
       }
     },
     {
@@ -218,7 +218,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Alcobendas, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, España"
+        "title": "Alcobendas, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, España"
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Las Tablas, Fuencarral-El Pardo, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, España"
+        "title": "Las Tablas, Fuencarral-El Pardo, Madrid, Área metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, España"
       }
     },
     {
@@ -244,7 +244,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Comunitat Valenciana, España"
+        "title": "Comunitat Valenciana, España"
       }
     },
     {
@@ -257,7 +257,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Málaga, Provincia de Málaga, Andalucía, España"
+        "title": "Málaga, Provincia de Málaga, Andalucía, España"
       }
     },
     {
@@ -270,7 +270,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Almería, Provincia de Almería, Andalucía, España"
+        "title": "Almería, Provincia de Almería, Andalucía, España"
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Bilbao, Provincia de Bizkaia, Euskadi, 48001;48002;48003;48004;48005;48006;48007;48008;48009;48010;48011;48012;48013;48014;48015, España"
+        "title": "Bilbao, Provincia de Bizkaia, Euskadi, 48001;48002;48003;48004;48005;48006;48007;48008;48009;48010;48011;48012;48013;48014;48015, España"
       }
     },
     {
@@ -296,7 +296,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Barcelona, Barcelonès, Província de Barcelona, Catalunya, España"
+        "title": "Barcelona, Barcelonès, Província de Barcelona, Catalunya, España"
       }
     },
     {
@@ -309,7 +309,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Província de Girona, Catalunya, España"
+        "title": "Província de Girona, Catalunya, España"
       }
     },
     {
@@ -322,7 +322,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Zamora, Provincia de Zamora, Castilla y León, España"
+        "title": "Zamora, Provincia de Zamora, Castilla y León, España"
       }
     },
     {
@@ -335,7 +335,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Segovia, Provincia de Segovia, Castilla y León, España"
+        "title": "Segovia, Provincia de Segovia, Castilla y León, España"
       }
     },
     {
@@ -348,7 +348,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Toledo, Provincia de Toledo, Castilla-La Mancha, España"
+        "title": "Toledo, Provincia de Toledo, Castilla-La Mancha, España"
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Paris, Île-de-France, France métropolitaine, France"
+        "title": "Paris, Île-de-France, France métropolitaine, France"
       }
     },
     {
@@ -374,7 +374,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Toulouse, Haute-Garonne, Midi-Pyrénées, France métropolitaine, 31000;31100;31200;31300;31400;31500, France"
+        "title": "Toulouse, Haute-Garonne, Midi-Pyrénées, France métropolitaine, 31000;31100;31200;31300;31400;31500, France"
       }
     },
     {
@@ -387,7 +387,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Bruxelles / Brussel, Ville de Bruxelles - Stad Brussel, Bruxelles-Capitale - Brussel-Hoofdstad, Bruxelles-Capitale - Brussels Hoofdstedelijk, 1000;1040, België - Belgique - Belgien"
+        "title": "Bruxelles / Brussel, Ville de Bruxelles - Stad Brussel, Bruxelles-Capitale - Brussel-Hoofdstad, Bruxelles-Capitale - Brussels Hoofdstedelijk, 1000;1040, België - Belgique - Belgien"
       }
     },
     {
@@ -400,7 +400,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Hamburg, Deutschland"
+        "title": "Hamburg, Deutschland"
       }
     },
     {
@@ -413,7 +413,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Berlin, Deutschland"
+        "title": "Berlin, Deutschland"
       }
     },
     {
@@ -426,7 +426,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Bodø, Nordland, Norge"
+        "title": "Bodø, Nordland, Norge"
       }
     },
     {
@@ -439,7 +439,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Oslo, Norge"
+        "title": "Oslo, Norge"
       }
     },
     {
@@ -452,7 +452,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Stavanger, Rogaland, Norge"
+        "title": "Stavanger, Rogaland, Norge"
       }
     },
     {
@@ -465,7 +465,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Amsterdam, Stadsregio Amsterdam, Noord-Holland, Koninkrijk der Nederlanden, Nederland"
+        "title": "Amsterdam, Stadsregio Amsterdam, Noord-Holland, Koninkrijk der Nederlanden, Nederland"
       }
     },
     {
@@ -478,7 +478,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Torghatten, Brønnøy, Nordland, Norge"
+        "title": "Torghatten, Brønnøy, Nordland, Norge"
       }
     },
     {
@@ -491,7 +491,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Porto, Portugal"
+        "title": "Porto, Portugal"
       }
     },
     {
@@ -504,7 +504,7 @@
       },
       "type": "Feature",
       "properties": {
-        "Title": "Tijuana, Baja California, Estados Unidos Mexicanos"
+        "title": "Tijuana, Baja California, Estados Unidos Mexicanos"
       }
     },
     {
